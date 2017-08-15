@@ -2,7 +2,7 @@
 
 Build with [ReactNative](https://facebook.github.io/react-native/)
 
-### Download app at [PlayStore](https://play.google.com/store/apps/details?id=com.traintracking&hl=en)
+### [Download app at PlayStore](https://play.google.com/store/apps/details?id=com.traintracking&hl=en)
 
 A train tracking application that is automatically populated with a live data from the digitrafic-service API build by ReactNative.
 
