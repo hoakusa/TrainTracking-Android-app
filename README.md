@@ -28,7 +28,7 @@ You can find:
 Make sure you have slready installed [Android SDK](https://developer.android.com/studio/index.html) or Xcode
 Run `react-native run-android`
 
-### See full doc at [Ionic documentation](https://facebook.github.io/react-native/docs/running-on-device.html)
+### See full doc at [Socumentation](https://facebook.github.io/react-native/docs/running-on-device.html)
 
 ## License
 
